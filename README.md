@@ -1,2 +1,2 @@
-# Star Wars Game
-This is a simple star wars game.
+# Space Invader Game
+This is a simple space invader game.
